@@ -1,0 +1,12 @@
+
+*.js
+*.json
+node_modules/body-parser/node_modules/raw-body/LICENSE
+*.md
+node_modules/express/node_modules/send/node_modules/http-errors/LICENSE
+node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/LICENSE
+node_modules/express/node_modules/setprototypeof/LICENSE
+node_modules/express/node_modules/send/node_modules/mime/.npmignore
+node_modules/express/node_modules/send/node_modules/mime/LICENSE
+node_modules/express/node_modules/serve-static/LICENSE
+node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE
